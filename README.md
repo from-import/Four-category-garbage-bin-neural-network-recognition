@@ -4,8 +4,7 @@
 https://maixhub.com/model/training/project
 
 
-训练参数： 
-图像增强,随机镜像,随机旋转,随机模糊
+训练参数： 图像增强+随机镜像+随机旋转+随机模糊  
 缩放方式contain  
 缩放宽度224  
 缩放高度224  
