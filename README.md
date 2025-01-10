@@ -2,7 +2,9 @@
 四分类垃圾桶神经网络识别
 
 https://maixhub.com/model/training/project
-训练参数：
+
+
+训练参数： 
 图像增强,随机镜像,随机旋转,随机模糊
 缩放方式contain  
 缩放宽度224  
